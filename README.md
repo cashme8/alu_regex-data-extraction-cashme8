@@ -20,6 +20,8 @@ This is part of the **Formative One - Regex Onboarding Hackathon**.
 
 ### Author - **KABANDA Gislain**
 
+---
+
 ## 🛠️ Setup & Usage
 
 ### 1. Clone Repository
