@@ -1,6 +1,6 @@
-# 🔍 Regex Data Extraction Tool
+# Regex Data Extraction Tool
 
-## 📌 Overview
+## Overview
 This project is a **Regex-powered data extraction tool** built in Python.  
 It extracts structured data such as **emails, URLs, phone numbers, credit card numbers, and time formats** from raw text.
 
@@ -8,7 +8,7 @@ This is part of the **Formative One - Regex Onboarding Hackathon**.
 
 ---
 
-## 🚀 Features
+## Features
 - Extracts **Emails**  
 - Extracts **URLs**  
 - Extracts **Phone Numbers**  
@@ -18,9 +18,12 @@ This is part of the **Formative One - Regex Onboarding Hackathon**.
 
 ---
 
+### Author - **KABANDA Gislain**
+
 ## 🛠️ Setup & Usage
 
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/cashme8/alu_regex-data-extraction-cashme8.git
 cd alu_regex-data-extraction-cashme8
+
