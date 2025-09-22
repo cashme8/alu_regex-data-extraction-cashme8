@@ -18,8 +18,8 @@ This is part of the **Formative One - Regex Onboarding Hackathon**.
 
 ---
 
-### Author - **KABANDA Gislain**
-
+### School - **African Leadership University**
+### Author - ***KABANDA Gislain***
 ---
 
 ## 🛠️ Setup & Usage
