@@ -38,7 +38,7 @@ def extract_the_data(text: str, pattern: str):
 def run_me():
     """Runs demo extractions on a sample text."""
     sample_text = """
-    Contact me at kabandagislain440@#gmail.com or king@company.co.uk.
+    Contact me at kabandagislain440@gmail.com or king@company.co.uk.
     Visit https://irembo.gov.rw/ or https://etax.rra.gov.rw/.
     Call me at (250) 786-7890, 123-456-7890 or 123.456.7890.
     My credit card: 1234-5678-9012-3456 or 1234 5678 9012 3456.

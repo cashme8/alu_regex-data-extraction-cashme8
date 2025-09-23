@@ -14,7 +14,7 @@ from main import extract_the_data, REGEX_PATTERNS
 # Define test samples for each category
 
 TEST_INPUTS = {
-    "emails": "Send to kabandagislain440@#gmail.com or king@company.co.uk, not user@@wrong.",
+    "emails": "Send to kabandagislain440@#gmail.com(wrong) or king@company.co.uk, not user@@wrong.",
     "urls": "Checkout https://irembo.gov.rw/ and https://etax.rra.gov.rw. Avoid ftp://files.com.",
     "phones": "Formats: (123) 456-7890, 123-456-7890, 123.456.7890, and wrong one: 12-345-678.",
     "credit_cards": "Valid: 1234-5678-9012-3456, 1234 5678 9012 3456. Wrong: 12345678901234.",
