@@ -9,7 +9,7 @@ It’s like a quality check for your regex.
 
 """
 
-from main import extract_data, REGEX_PATTERNS
+from main import extract_the_data, REGEX_PATTERNS
 
 # Define test samples for each category
 
@@ -25,7 +25,7 @@ def run_tests():
     print("=== Running Test Cases ===")
     for key, sample in TEST_INPUTS.items():
         print(f"\nTesting {key.capitalize()}:")
-        matches = extract_data(sample, REGEX_PATTERNS[key])
+        matches = extract_the_data(sample, REGEX_PATTERNS[key])
         print("Matches:", matches)
 
 if __name__ == "__main__":

@@ -18,11 +18,6 @@ This is part of the **Formative One - Regex Onboarding Hackathon**.
 
 ---
 
-## School - **African Leadership University**
-### Author - ***KABANDA Gislain***
-**Licenced**
----
-
 ## Setup & Usage
 
 **main.py**
@@ -39,6 +34,12 @@ It’s like a showcase of the tool.
 ***Purpose*** → Testing regex against different examples, including invalid/malformed inputs.
 Lets you confirm the regex catches only valid patterns.
 It’s like a quality check for your regex.
+
+---
+
+## School - **African Leadership University**
+### Author - ***KABANDA Gislain***
+**Licenced**
 
 
 ### 1. Clone Repository

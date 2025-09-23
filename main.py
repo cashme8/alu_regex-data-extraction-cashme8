@@ -30,7 +30,7 @@ REGEX_PATTERNS = {
 # Functions
 # ==============================
 
-def extract_data(text: str, pattern: str):
+def extract_the_data(text: str, pattern: str):
     """Extracts all matches of the given regex pattern from the input text."""
     return re.findall(pattern, text)
 
@@ -39,7 +39,7 @@ def run_me():
     """Runs demo extractions on a sample text."""
     sample_text = """
     Contact me at kabandagislain440@#gmail.com or king@company.co.uk.
-    Visit https:/irembo.gov.rw/ or https://etax.rra.gov.rw/.
+    Visit https://irembo.gov.rw/ or https://etax.rra.gov.rw/.
     Call me at (250) 786-7890, 123-456-7890 or 123.456.7890.
     My credit card: 1234-5678-9012-3456 or 1234 5678 9012 3456.
     Meeting at 14:30 or 2:30 PM.
@@ -48,7 +48,7 @@ def run_me():
     print("=== Regex Data Extraction run_me Demo ===")
     for key, pattern in REGEX_PATTERNS.items():
         print(f"\n{key.capitalize()}:")
-        results = extract_data(sample_text, pattern)
+        results = extract_the_data(sample_text, pattern)
         print(results if results else "No matches found.")
 
 
