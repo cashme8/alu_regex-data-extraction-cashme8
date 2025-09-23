@@ -18,11 +18,28 @@ This is part of the **Formative One - Regex Onboarding Hackathon**.
 
 ---
 
-### School - **African Leadership University**
+## School - **African Leadership University**
 ### Author - ***KABANDA Gislain***
+**Licenced**
 ---
 
-## 🛠️ Setup & Usage
+## Setup & Usage
+
+**main.py**
+
+***Purpose*** → Demo of how the regex works.
+Contains a sample text with emails, URLs, phones, cards, and times.
+Runs once and prints all matches it finds.
+It’s like a showcase of the tool.
+
+--
+
+**test_cases.py**
+
+***Purpose*** → Testing regex against different examples, including invalid/malformed inputs.
+Lets you confirm the regex catches only valid patterns.
+It’s like a quality check for your regex.
+
 
 ### 1. Clone Repository
 ```bash
